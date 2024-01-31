@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
